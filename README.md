@@ -19,5 +19,4 @@ The objective is to minimize transportation costs while maintaining service qual
 ## 📊 Business Impact
 Demonstrates how optimization techniques can streamline logistics and distribution planning, directly applicable to global supply chain challenges.
 
-## 🔗 Notebook
-Kaggle notebook: [Supply Chain Optimization](https://www.kaggle.com/code/kelvinprawtama/supply-chain-optimization)
+
